@@ -2,14 +2,16 @@
 # Movie Information Validation
 
 Imdb and Wikipedia are the sources to get the details of the movie:Pushpa: The Rise.
+We have to capture Release Date and Country from both the sources and match them.
 
 # Tools and technologies used:
 
-Language: Java 8
-Testing framework: Testng
-Automation tool: Selenium webdriver
-Build tool: maven
-Reporting: Avent stack
+1. Language: Java 8
+2. Testing framework: Testng
+3. Automation tool: Selenium webdriver
+4. Build tool: maven
+5. Reporting: Avent stack
+6. IDE: Intellij Idea
 
 # Features of the framework
 1. XML-based test configuration.
