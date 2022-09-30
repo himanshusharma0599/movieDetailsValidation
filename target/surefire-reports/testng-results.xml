@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T11:37:27Z" name="Sample Test Suite" finished-at="2022-09-30T11:39:02Z" duration-ms="95878">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T11:37:27Z" name="Test Automation" finished-at="2022-09-30T11:39:02Z" duration-ms="95878">
+      <class name="test.java.SampleTest">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:test.java.SampleTest@1df82230]" started-at="2022-09-30T17:07:27Z" name="beforeTestMethod" finished-at="2022-09-30T17:07:29Z" duration-ms="2519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String, java.lang.reflect.Method)[pri:0, instance:test.java.SampleTest@1df82230]" started-at="2022-09-30T17:07:29Z" name="beforeMethodMethod" finished-at="2022-09-30T17:08:09Z" duration-ms="40250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.java.SampleTest.compareMovieDetails() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodMethod -->
+        <test-method signature="compareMovieDetails()[pri:0, instance:test.java.SampleTest@1df82230]" started-at="2022-09-30T17:08:09Z" name="compareMovieDetails" finished-at="2022-09-30T17:09:00Z" duration-ms="50475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareMovieDetails -->
+        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.SampleTest@1df82230]" started-at="2022-09-30T17:09:00Z" name="AfterMethodMethod" finished-at="2022-09-30T17:09:01Z" duration-ms="1202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=compareMovieDetails status=SUCCESS method=SampleTest.compareMovieDetails()[pri:0, instance:test.java.SampleTest@1df82230] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodMethod -->
+        <test-method is-config="true" signature="AfterTestMethod()[pri:0, instance:test.java.SampleTest@1df82230]" started-at="2022-09-30T17:09:01Z" name="AfterTestMethod" finished-at="2022-09-30T17:09:02Z" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+      </class> <!-- test.java.SampleTest -->
+    </test> <!-- Test Automation -->
+  </suite> <!-- Sample Test Suite -->
+</testng-results>

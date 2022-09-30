@@ -1,0 +1,8 @@
+main\java\PageObjects\WikiElements.class
+main\java\PageEvents\ImdbEvents.class
+main\java\PageEvents\WikiEvents.class
+main\java\Utils\ElementFetch.class
+main\java\Utils\SuiteListener.class
+test\java\SampleTest.class
+main\java\PageObjects\ImdbElements.class
+test\java\BaseTest.class
